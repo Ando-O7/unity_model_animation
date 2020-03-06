@@ -746,7 +746,7 @@ ModelImporter:
       takeName: Wolf_Skeleton|Wolf_Run_Cycle_
       firstFrame: 0
       lastFrame: 17
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
